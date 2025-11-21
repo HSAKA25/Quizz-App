@@ -1,0 +1,122 @@
+[
+  {
+    "qno": 1,
+    "question": "What is Python?",
+    "options": ["Programming Language", "Snake", "Car", "Coffee"],
+    "answer": "Programming Language"
+  },
+  {
+    "qno": 2,
+    "question": "Who developed Python?",
+    "options": ["Dennis Ritchie", "James Gosling", "Guido van Rossum", "Bjarne Stroustrup"],
+    "answer": "Guido van Rossum"
+  },
+  {
+    "qno": 3,
+    "question": "Which keyword is used to define a function in Python?",
+    "options": ["function", "def", "fun", "define"],
+    "answer": "def"
+  },
+  {
+    "qno": 4,
+    "question": "Which symbol is used to start a block in Python?",
+    "options": ["{}", ":", "begin", "end"],
+    "answer": ":"
+  },
+  {
+    "qno": 5,
+    "question": "Which data type is used to store True/False values?",
+    "options": ["int", "bool", "str", "float"],
+    "answer": "bool"
+  },
+  {
+    "qno": 6,
+    "question": "Which operator is used for exponentiation in Python?",
+    "options": ["^", "**", "%", "//"],
+    "answer": "**"
+  },
+  {
+    "qno": 7,
+    "question": "What is the file extension of a Python file?",
+    "options": [".py", ".java", ".c", ".txt"],
+    "answer": ".py"
+  },
+  {
+    "qno": 8,
+    "question": "Which function is used to get input from the user in Python?",
+    "options": ["scan()", "input()", "read()", "get()"],
+    "answer": "input()"
+  },
+  {
+    "qno": 9,
+    "question": "How do you start a comment in Python?",
+    "options": ["//", "#", "/*", "--"],
+    "answer": "#"
+  },
+  {
+    "qno": 10,
+    "question": "Which keyword is used to define a class in Python?",
+    "options": ["class", "object", "def", "structure"],
+    "answer": "class"
+  },
+  {
+    "qno": 11,
+    "question": "Which method adds an item to the end of a list?",
+    "options": ["add()", "append()", "insert()", "push()"],
+    "answer": "append()"
+  },
+  {
+    "qno": 12,
+    "question": "Which of the following is immutable in Python?",
+    "options": ["list", "tuple", "dict", "set"],
+    "answer": "tuple"
+  },
+  {
+    "qno": 13,
+    "question": "Which of these converts a string to lowercase in Python?",
+    "options": ["lower()", "upper()", "capitalize()", "case()"],
+    "answer": "lower()"
+  },
+  {
+    "qno": 14,
+    "question": "Which exception is raised for division by zero?",
+    "options": ["ZeroDivisionError", "ValueError", "TypeError", "IndexError"],
+    "answer": "ZeroDivisionError"
+  },
+  {
+    "qno": 15,
+    "question": "Which keyword is used to handle exceptions in Python?",
+    "options": ["try", "catch", "handle", "except"],
+    "answer": "try"
+  },
+  {
+    "qno": 16,
+    "question": "Which operator is used for floor division in Python?",
+    "options": ["/", "//", "%", "**"],
+    "answer": "//"
+  },
+  {
+    "qno": 17,
+    "question": "Which keyword is used to exit a loop in Python?",
+    "options": ["stop", "exit", "break", "end"],
+    "answer": "break"
+  },
+  {
+    "qno": 18,
+    "question": "Which function is used to find the length of a list in Python?",
+    "options": ["length()", "size()", "len()", "count()"],
+    "answer": "len()"
+  },
+  {
+    "qno": 19,
+    "question": "Which keyword is used to import modules in Python?",
+    "options": ["require", "import", "include", "module"],
+    "answer": "import"
+  },
+  {
+    "qno": 20,
+    "question": "Which built-in data structure stores key-value pairs in Python?",
+    "options": ["list", "tuple", "dict", "set"],
+    "answer": "dict"
+  }
+]

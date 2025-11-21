@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "258703474460",
+    "firebase_url": "https://quizz-20b74-default-rtdb.firebaseio.com",
+    "project_id": "quizz-20b74",
+    "storage_bucket": "quizz-20b74.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:258703474460:android:7c68add98fff41e4f1c4d9",
+        "android_client_info": {
+          "package_name": "com.example.quizz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKSM_CW-XioAzrNIap3IHsAIR6KvWor8c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
