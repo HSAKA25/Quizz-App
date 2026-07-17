@@ -199,7 +199,7 @@ This project is licensed under the MIT License.
 ## 👨‍💻 Author
 
 **Akash Singh**
-- DIT Student
+- MCA Student
 - Email: as524610@gmail.com
 - Specialization: Mobile App Development
 
